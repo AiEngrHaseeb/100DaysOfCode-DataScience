@@ -6,4 +6,5 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Python Introduction.
    * Operators.
    * List & Tuple.
+   * Control flow & Loop.
 * PyCharm, Jupyter Notebook, Google Colab
