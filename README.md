@@ -8,4 +8,5 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * List & Tuple.
    * Control flow & Loop.
    * Dictionary.
+   * Functions.
 * PyCharm, Jupyter Notebook, Google Colab
