@@ -9,4 +9,5 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Control flow & Loop.
    * Dictionary.
    * Functions.
+   * OOP.
 * PyCharm, Jupyter Notebook, Google Colab
