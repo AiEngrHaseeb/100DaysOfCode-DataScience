@@ -10,4 +10,7 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Dictionary.
    * Functions.
    * OOP.
+   * Pillars Of OOP.
+      * Inheritance
+   
 * PyCharm, Jupyter Notebook, Google Colab
