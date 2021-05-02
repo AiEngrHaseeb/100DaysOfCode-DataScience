@@ -12,5 +12,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * OOP.
    * Pillars Of OOP.
       * Inheritance
+      * Encapsulation
    
 * PyCharm, Jupyter Notebook, Google Colab
