@@ -14,5 +14,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Inheritance
       * Encapsulation
       * Polymorphism
+      * Abstraction
    
 * PyCharm, Jupyter Notebook, Google Colab
