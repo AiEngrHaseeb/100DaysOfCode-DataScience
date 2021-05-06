@@ -17,4 +17,4 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Abstraction
    * Errors and Exceptions.
    
-* PyCharm, Jupyter Notebook, Google Colab
+* Jupyter Notebook, Google Colab
