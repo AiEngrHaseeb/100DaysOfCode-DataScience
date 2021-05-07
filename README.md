@@ -16,5 +16,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Polymorphism
       * Abstraction
    * Errors and Exceptions.
+   * File Handling.
    
 * Jupyter Notebook, Google Colab
