@@ -17,7 +17,7 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Abstraction
    * Errors and Exceptions.
    * File Handling.
-   * * Python Project.
-      * 1- Hangman-DataFlair
+   * Python Project.
+      * Hangman-DataFlair
    
 * Jupyter Notebook, Google Colab
