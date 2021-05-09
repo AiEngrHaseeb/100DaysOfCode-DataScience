@@ -19,5 +19,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * File Handling.
    * Python Project.
       * Hangman-DataFlair
+      * Rock-Paper-Scissors-Game
    
 * Jupyter Notebook, Google Colab
