@@ -20,5 +20,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Python Project.
       * Hangman-DataFlair
       * Rock-Paper-Scissors-Game
+      * Dice-Rolling-Simulator
    
 * Jupyter Notebook, Google Colab
