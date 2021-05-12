@@ -22,5 +22,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Rock-Paper-Scissors-Game
       * Dice-Rolling-Simulator
       * Youtube-Video-Downloader
+      * Jumbled-Words-Quiz
    
 * Jupyter Notebook, Google Colab
