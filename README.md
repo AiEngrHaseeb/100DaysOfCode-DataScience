@@ -23,5 +23,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Dice-Rolling-Simulator
       * Youtube-Video-Downloader
       * Jumbled-Words-Quiz
+      * Call-Break-The-card-game
    
 * Jupyter Notebook, Google Colab
