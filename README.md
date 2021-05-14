@@ -24,5 +24,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Youtube-Video-Downloader
       * Jumbled-Words-Quiz
       * Call-Break-The-card-game
+      * Mad-LibsGenerator-Game
    
 * Jupyter Notebook, Google Colab
