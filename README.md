@@ -25,5 +25,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Jumbled-Words-Quiz
       * Call-Break-The-card-game
       * Mad-LibsGenerator-Game
+      * Tic_Tac_Toe-Game
    
 * Jupyter Notebook, Google Colab
