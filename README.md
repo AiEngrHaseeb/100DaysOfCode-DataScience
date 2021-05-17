@@ -26,5 +26,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Call-Break-The-card-game
       * Mad-LibsGenerator-Game
       * Tic_Tac_Toe-Game
+      * Alarm_Clock
    
 * Jupyter Notebook, Google Colab
