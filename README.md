@@ -28,5 +28,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Tic_Tac_Toe-Game
       * Alarm_Clock
       * Calculator
+      * Currency-Converter
    
 * Jupyter Notebook, Google Colab
