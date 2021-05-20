@@ -29,5 +29,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Alarm_Clock
       * Calculator
       * Currency-Converter
+      * Address_Book
    
 * Jupyter Notebook, Google Colab
