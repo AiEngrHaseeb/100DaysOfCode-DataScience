@@ -30,5 +30,6 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Calculator
       * Currency-Converter
       * Address_Book
+      * Snake-Game
    
 * Jupyter Notebook, Google Colab
