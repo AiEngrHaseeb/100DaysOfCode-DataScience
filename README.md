@@ -33,4 +33,8 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Snake-Game
       * Website_Blocker
       * Encode-Decode
+* Numpy 3 - the latest version of Numpy
+   * Numpy Introduction.
+
+
 * Jupyter Notebook, Google Colab
