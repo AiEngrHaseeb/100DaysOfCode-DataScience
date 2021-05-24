@@ -32,5 +32,5 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Address_Book
       * Snake-Game
       * Website_Blocker
-   
+      * Encode-Decode
 * Jupyter Notebook, Google Colab
