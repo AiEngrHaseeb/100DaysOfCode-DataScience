@@ -37,6 +37,7 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Numpy Introduction.
    * Multidimensional Array Object - I
    * Multidimensional Array Object - II
+   * Multidimensional Array Object - III
 
 
 * Jupyter Notebook, Google Colab
