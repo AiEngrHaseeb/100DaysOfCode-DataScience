@@ -33,13 +33,17 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
       * Snake-Game
       * Website_Blocker
       * Encode-Decode
-* Numpy 3 - the latest version of Numpy
+
+* Numpy - the latest version of Numpy
    * Numpy Introduction.
    * Multidimensional Array Object - I
    * Multidimensional Array Object - II
    * Multidimensional Array Object - III
    * Multidimensional Array Object - IV
    * Multidimensional Array Object - V
+
+* Pandas - the latest version of Pandas
+   * Pandas Objects.
 
 
 * Jupyter Notebook, Google Colab
