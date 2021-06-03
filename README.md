@@ -45,7 +45,8 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
 * Pandas - the latest version of Pandas
    * Pandas Objects.
    * Data Exploration.
-   * Pandas TimeSeries
+   * Pandas TimeSeries.
+   * Pandas MultiIndex Objects.
 
 
 * Jupyter Notebook, Google Colab
