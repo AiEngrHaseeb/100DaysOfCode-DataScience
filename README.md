@@ -47,6 +47,7 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Data Exploration.
    * Pandas TimeSeries.
    * Pandas MultiIndex Objects.
+   * Dataframe Testing for data analysis
 
 
 * Jupyter Notebook, Google Colab
