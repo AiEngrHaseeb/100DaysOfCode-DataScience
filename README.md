@@ -50,7 +50,7 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Dataframe Testing for data analysis
    * SQL Operation On Dataframes.
    * Pandas Operation :
-   *  * Series
+      * Series
 
 
 * Jupyter Notebook, Google Colab
