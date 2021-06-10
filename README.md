@@ -49,6 +49,8 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Pandas MultiIndex Objects.
    * Dataframe Testing for data analysis
    * SQL Operation On Dataframes.
+   * Pandas Operation :
+   *  * Series
 
 
 * Jupyter Notebook, Google Colab
