@@ -55,4 +55,5 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * SQL Operation On Dataframes.
    * Pandas Operation :
       * Series
+      * DataFrame
 
