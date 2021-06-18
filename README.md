@@ -56,4 +56,5 @@ Throughout this Challenge, I'll cover a massive amount of tools and technologies
    * Pandas Operation :
       * Series
       * DataFrame
+      * Conditional selection, Indexing, MultiIndexing
 
